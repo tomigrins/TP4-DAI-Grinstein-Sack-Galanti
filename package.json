@@ -1,0 +1,24 @@
+{
+  "name": "tp4-dai-grinstein_galanti_sack",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tomigrins/TP4-DAI-Grinstein-Sack-Galanti#readme",
+  "bugs": {
+    "url": "https://github.com/tomigrins/TP4-DAI-Grinstein-Sack-Galanti/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomigrins/TP4-DAI-Grinstein-Sack-Galanti.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
